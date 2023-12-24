@@ -4,8 +4,6 @@
 
 ## 🧐 About
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="380px" height="200px" />
-
 - 👨‍💻 I'm a **Sr. Python Developer** working at [UKG](https://www.ukg.in/)
 - ⚒ Current Work: Create flask services, ML model training pipelines, custom python libraries. 
 - 💬 Reach me at **siddharthverma.er.cse@gmail.com**.
