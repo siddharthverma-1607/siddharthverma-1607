@@ -1,9 +1,9 @@
 ![My Post](https://user-images.githubusercontent.com/56193323/125333952-74c36b00-e368-11eb-8253-4cc1a6d31f09.gif)
 
-<h1 align="center">Siddharth Verma this side!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="30px" width="30px"> </h1>
+<h1 align="center">Siddharth Verma this side!</h1>
 
 ## 🧐 About
-
+<img align="right" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="380px" height="200px" />
 - 👨‍💻 I'm a **Sr. Python Developer** working at [UKG](https://www.ukg.in/)
 - ⚒ Current Work: Create flask services, ML model training pipelines, custom python libraries. 
 - 💬 Reach me at **siddharthverma.er.cse@gmail.com**.
