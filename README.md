@@ -1,9 +1,22 @@
+![My Post](https://user-images.githubusercontent.com/56193323/125333952-74c36b00-e368-11eb-8253-4cc1a6d31f09.gif)
 
-<h1>Hello There, I'm Siddharth Verma <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1 align="center">Siddharth Verma this side!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="30px" width="30px"> </h1>
 
-I'm a **Application Developer** working at [Accenture](https://www.accenture.com/in-en). My day to day work revolves around bugging, fixing and maintaining E-Commerce project for a reputed Client and collaborating with many 3rd party platforms. I'm open to collaborate on interesting projects.
+## 🧐 About
 
-## Skill Set :muscle:
+<img align="right" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="380px" height="200px" />
+
+- 👨‍💻 I'm a **Sr. Python Developer** working at [UKG](https://www.ukg.in/)
+- ⚒ Current Work: Create flask services, ML model training pipelines, custom python libraries. 
+- 💬 Reach me at **siddharthverma.er.cse@gmail.com**.
+- 🔭 On my journey to become a development scientist.
+- ⚡ Fun fact: I paint portraits or go for solo travel whenever I crave for it.
+- ❓ Ask me about Python internal working, open source contribution or local travel; it will be fun!
+
+<br>
+
+
+## Teck Stack :muscle:
 
 These are some of the major technologies that I use or have worked on in the past:
 
